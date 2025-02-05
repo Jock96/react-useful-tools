@@ -1,0 +1,34 @@
+{
+  "name": "react-useful-tools",
+  "version": "0.0.1",
+  "description": "React useful tools",
+  "private": false,
+  "author": "Kabanov Peter",
+  "license": "MIT",
+  "keywords": [
+    "react hooks",
+    "react hook",
+    "react helper",
+    "react helpers",
+    "react"
+  ],
+  "files": [
+    "LICENSE",
+    "index.js",
+    "src/"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jock96/react-useful-tools"
+  },
+  "dependencies": {
+    "js-base64": "^3.7.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.8"
+  }
+}
